@@ -1,5 +1,5 @@
 # go_csv_find_duplicates
-Finds duplicate rows in CSV files
+Finds duplicated rows in CSV files
 
 ```
 % ./csv-find-duplicates export.csv                          
