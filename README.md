@@ -5,7 +5,7 @@ Finds duplicated rows in CSV files
 % ./csv-find-duplicates export.csv                          
 Duplicated lines: 6 = 11
 Duplicated lines: 19 = 26
-2 duplicates have been found
+2 duplicates found
 Total of lines: 65004
 ```
 

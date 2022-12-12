@@ -51,6 +51,6 @@ func main() {
 			m[lineContents] = lineNumber
 		}
 	}
-	fmt.Println(totalDuplicates, "duplicates have been found")
+	fmt.Println(totalDuplicates, "duplicates found")
 	fmt.Println("Total of lines:", lineNumber)
 }
